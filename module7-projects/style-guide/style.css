@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+    padding: 20px;
+    border: solid 4px;
+    box-shadow: 0px 4px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#colours{
+    margin: 20px;
+    border-style: solid;
+    border-width: 2px;
+
+
+}
+
+#fontdiv{
+    display: flex;
+    margin: 20px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#jetbrainsmono{
+    padding: 20px;
+}
+
+#roboto{
+    padding: 20px;
+}
+
+#lato{
+    padding: 20px;
+}
