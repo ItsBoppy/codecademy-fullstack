@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    border: 0;
+    font-family: 'Roboto Mono', monospace;
+  }
+  
+  h1 {
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  .container {
+    display: inline-flex;
+    background-color: whitesmoke;
+
+  }
+  
+  .box {
+    background-color: dodgerblue;
+    height: 100px;
+    width: 100px;
+    border: 1px solid lightgrey;
+  }
+  
+  #flex {
+  display: flex;
+  }
+  
+
+  /* #flexstart {
+    display:flex;
+    justify-content:flex-start;
+    }
+    
+    #flexend {
+    display:flex;
+    justify-content:flex-end;
+    }
+    
+    #center {
+    display:flex;
+    justify-content:center;
+    }
+    
+    #spacearound {
+    display:flex;
+    justify-content:space-around;
+    }
+    
+    #spacebetween {
+    display:flex;
+    justify-content:space-between;
+    }
+     */
+
+
+
+
+
+     /* #row {
+        flex-direction:row;
+        }
+        
+        #row-reverse {
+        flex-direction:row-reverse;
+k        
+        #column {
+        flex-direction:column;
+        }
+        
+        #column-reverse {
+        flex-direction:column-reverse;
+        } */
+
+
+
+
+/* 
+
+        #row {
+            flex-direction:row;
+            }
+            
+            #row-reverse {
+            flex-direction:row-reverse;
+            }
+            
+            #column {
+            flex-direction:column;
+            }
+            
+            #column-reverse {
+            flex-direction:column-reverse;
+            } */
+        
